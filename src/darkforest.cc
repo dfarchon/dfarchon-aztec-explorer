@@ -1,7 +1,6 @@
-
 #include <stdint.h>
-#include "mimc.h"
-#include "mimc_constants.h"
+#include <exception>
+#include "poseidon2.h"
 #include "darkforest.h"
 
 using json = nlohmann::json;

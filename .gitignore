@@ -2,3 +2,9 @@
 .vscode
 cmake-build-*
 build
+thirdparty/link_shim/
+*.cudafe*
+*.fatbin*
+*.module_id
+poseidon2.cpp*
+poseidon2.ptx
